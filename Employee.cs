@@ -13,7 +13,7 @@ namespace classes{
         public string firstName {get;set;}
         public string lastName {get;set;}
         public string Title {get;set;}
-        private DateTime startDate {get;set;}
+        private DateTime startDate = DateTime.Now;
 
         public DateTime getStartDate(){
             return startDate;
