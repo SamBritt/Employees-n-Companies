@@ -1,0 +1,11 @@
+/Users/sambritt/workspace/csharp/exercises/classes/bin/Debug/netcoreapp2.2/classes.deps.json
+/Users/sambritt/workspace/csharp/exercises/classes/bin/Debug/netcoreapp2.2/classes.runtimeconfig.json
+/Users/sambritt/workspace/csharp/exercises/classes/bin/Debug/netcoreapp2.2/classes.runtimeconfig.dev.json
+/Users/sambritt/workspace/csharp/exercises/classes/bin/Debug/netcoreapp2.2/classes.dll
+/Users/sambritt/workspace/csharp/exercises/classes/bin/Debug/netcoreapp2.2/classes.pdb
+/Users/sambritt/workspace/csharp/exercises/classes/obj/Debug/netcoreapp2.2/classes.csprojAssemblyReference.cache
+/Users/sambritt/workspace/csharp/exercises/classes/obj/Debug/netcoreapp2.2/classes.csproj.CoreCompileInputs.cache
+/Users/sambritt/workspace/csharp/exercises/classes/obj/Debug/netcoreapp2.2/classes.AssemblyInfoInputs.cache
+/Users/sambritt/workspace/csharp/exercises/classes/obj/Debug/netcoreapp2.2/classes.AssemblyInfo.cs
+/Users/sambritt/workspace/csharp/exercises/classes/obj/Debug/netcoreapp2.2/classes.dll
+/Users/sambritt/workspace/csharp/exercises/classes/obj/Debug/netcoreapp2.2/classes.pdb
